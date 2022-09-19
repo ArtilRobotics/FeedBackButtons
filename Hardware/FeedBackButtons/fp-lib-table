@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "BUTT-2")(type "KiCad")(uri "D:/Artil/Pasantías 2022/Satisfacción de Cliente/FeedBackButtons/Hardware/BUTT-2")(options "")(descr ""))
+  (lib (name "ESP8266")(type "KiCad")(uri "D:/Artil/Pasantías 2022/Satisfacción de Cliente/FeedBackButtons/Hardware/ESP8266")(options "")(descr ""))
+)
